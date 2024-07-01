@@ -1,0 +1,6 @@
+pour se connecter 
+
+Identifiant : User
+Mdp : 1234567890
+
+Le compte est deja en mode admin (1)
